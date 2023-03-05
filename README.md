@@ -1,4 +1,4 @@
-# 파이토치 튜토리얼
+# 파이토치 튜토리얼: 
 
 출처 : https://jovian.ml/aakashns/01-pytorch-basics <br>
 한국어 번역이 포함되어 있습니다.
