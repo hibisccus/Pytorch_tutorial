@@ -10,7 +10,7 @@ https://www.youtube.com/playlist?list=PL-hudiHbCqZcC8TVLTvvhd3nFbrE9RP4-
 목차는 다음과 같습니다.
 
 Chapter 1. PyTorch Basics: Tensors & Gradients
-* Exercise 1. Insurance cost prediction using linear regression </br>
+* Exercise 1. Insurance cost prediction using linear regression <br>
 Chapter 2. Linear Regression & Gradient Descent
 * Exercise 1. House price prediction using linear regression (Minimal)
 Chapter 3. Image Classfication using Logistic Regression
