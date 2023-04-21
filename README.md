@@ -2,7 +2,7 @@
 
 출처 : 
 https://jovian.ml/aakashns/01-pytorch-basics <br>
-https://www.youtube.com/playlist?list=PL-hudiHbCqZcC8TVLTvvhd3nFbrE9RP4-
+한국어 강좌 : https://www.youtube.com/playlist?list=PL-hudiHbCqZcC8TVLTvvhd3nFbrE9RP4-
 
 한국어 번역이 포함되어 있습니다.
 
